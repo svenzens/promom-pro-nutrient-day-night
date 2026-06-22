@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://promom-pro-nutrient-day-night.vercel.app/sitemap.xml
